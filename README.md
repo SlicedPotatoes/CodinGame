@@ -144,19 +144,20 @@ You will find all my puzzle solutions on Codingame here. I have been registered 
 
 The more optimized our solutions are in these puzzles, the better scores we get.
 
-| No. | Puzzle Name                                                     | Language                                                                                    | Score   | Ranking  | Date Submission |
-| --- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------- | -------- | --------------- |
-| 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/2048/Javascript.js) | 1387368 | 192/1139 | 03-03-2023      |
+| No. | Puzzle Name                                                                           | Language                                                                                    | Score   | Ranking     | Date Submission |
+| --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------- | ----------- | --------------- |
+| 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048)                       | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/2048/Javascript.js) | 1387368 | 192/1139    | 03-03-2023      |
+| 002 | [Code vs Zombies](https://www.codingame.com/multiplayer/optimization/code-vs-zombies) | [JS]()                                                                                      | 35390   | 15550/32696 | 14-03-2023      |
 
 ## Bot Programming
 
 These puzzles allow you to create bots that compete against the bots of other players.
 There is a league system : Wood, Bronze, Silver, Gold, Legend
 
-| No. | Puzzle Name                                                                                            | Language | Ligue  | Ranking in Ligue | Global Ranking |
-| --- | ------------------------------------------------------------------------------------------------------ | -------- | ------ | ---------------- | -------------- |
-| 001 | [Mad Pod Racing](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing)                 | [JS]()   | Silver | 34205/40082      | 43611/177273   |
-| 002 | [Legends of Code & Magic](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic) | [JS]()   | Bronze | 747/1220         | 1463/2630      |
-| 003 | [Start-up!](https://www.codingame.com/multiplayer/bot-programming/start-up)                            | [JS]()   | Wood   | 45/73            | 45/73          |
+| No. | Puzzle Name                                                                                            | Language                                                                                                                      | Ligue  | Ranking in Ligue | Global Ranking |
+| --- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------- | -------------- |
+| 001 | [Mad Pod Racing](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing)                 | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Bot%20Programming/Mad%20Pod%20Racing/Javascript.js)                | Silver | 18333/40082      | 27886/177273   |
+| 002 | [Legends of Code & Magic](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Bot%20Programming/Legends%20of%20Code%20%26%20Magic/Javascript.js) | Bronze | 747/1220         | 1463/2630      |
+| 003 | [Start-up!](https://www.codingame.com/multiplayer/bot-programming/start-up)                            | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Bot%20Programming/Start-up!/Javascript.js)                         | Wood   | 45/73            | 45/73          |
 
 |010|[]()|:heavy_check_mark: Completed|[JS]()|01-01-2023

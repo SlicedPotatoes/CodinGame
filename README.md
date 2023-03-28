@@ -140,4 +140,12 @@ You will find all my puzzle solutions on Codingame here. I have been registered 
 | --- | ------------------------------------------------------------------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
 | 001 | [CG Chat interpreter - Part 1](https://www.codingame.com/training/expert/cg-chat-interpreter---part-1) | :x: 82% Not Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Very%20Hard/CG%20Chat%20interpreter%20-%20Part%201/Javascript.js) | 01-02-2023      |
 
+## Optimization
+
+The more optimized our solutions are in these puzzles, the better scores we get.
+
+| No. | Puzzle Name                                                     | Language | Score   | Ranking  | Date Submission |
+| --- | --------------------------------------------------------------- | -------- | ------- | -------- | --------------- |
+| 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048) | [JS]()   | 1387368 | 192/1139 | 03-03-2023      |
+
 |010|[]()|:heavy_check_mark: Completed|[JS]()|01-01-2023

@@ -144,10 +144,10 @@ You will find all my puzzle solutions on Codingame here. I have been registered 
 
 The more optimized our solutions are in these puzzles, the better scores we get.
 
-| No. | Puzzle Name                                                                           | Language                                                                                    | Score   | Ranking     | Date Submission |
-| --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------- | ----------- | --------------- |
-| 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048)                       | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/2048/Javascript.js) | 1387368 | 192/1139    | 03-03-2023      |
-| 002 | [Code vs Zombies](https://www.codingame.com/multiplayer/optimization/code-vs-zombies) | [JS]()                                                                                      | 35390   | 15550/32696 | 14-03-2023      |
+| No. | Puzzle Name                                                                           | Language                                                                                                   | Score   | Ranking     | Date Submission |
+| --- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------- | ----------- | --------------- |
+| 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048)                       | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/2048/Javascript.js)                | 1387368 | 192/1139    | 03-03-2023      |
+| 002 | [Code vs Zombies](https://www.codingame.com/multiplayer/optimization/code-vs-zombies) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/Code%20vs%20Zombies/Javascript.js) | 35390   | 15550/32696 | 14-03-2023      |
 
 ## Bot Programming
 

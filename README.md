@@ -103,4 +103,26 @@ You will find all my puzzle solutions on Codingame here. I have been registered 
 | 089 | [Add'em Up](https://www.codingame.com/training/easy/addem-up)                                                                | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Easy/Add'em%20Up/Javascript.js)                                                                                                                                                                                                                                                                                             | 22-03-2023                             |
 | 090 | [Next growing number](https://www.codingame.com/training/easy/next-growing-number)                                           | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Easy/Next%20growing%20number/Javascript.js)                                                                                                                                                                                                                                                                                 | 22-03-2023                             |
 
-|080|[]()|:heavy_check_mark: Completed|[JS]()|01-01-2023
+### Medium
+
+| No. | Puzzle Name                                                                                                    | State                        | Language         | Date Submission          |
+| --- | -------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------- | ------------------------ |
+| 001 | [Carmichael numbers](https://www.codingame.com/training/medium/carmichael-numbers)                             | :heavy_check_mark: Completed | [JS]()           | 29-01-2023               |
+| 002 | [Sum of divisors](https://www.codingame.com/training/medium/sum-of-divisors)                                   | :heavy_check_mark: Completed | [JS]()           | 29-01-2023               |
+| 003 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)         | :heavy_check_mark: Completed | [JS]()           | 16-02-2023               |
+| 004 | [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | :heavy_check_mark: Completed | [JS]()           | 16-02-2023               |
+| 005 | [Câblage réseau](https://www.codingame.com/training/medium/network-cabling)                                    | :heavy_check_mark: Completed | [JS]()           | 16-02-2023               |
+| 006 | [Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1)       | :heavy_check_mark: Completed | [JS]()           | 16-02-2023               |
+| 007 | [Le plus rapide](https://www.codingame.com/training/medium/the-fastest)                                        | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 17-02-2023<br>08-05-2018 |
+| 008 | [Nombre d'échanges minimum](https://www.codingame.com/training/medium/minimal-number-of-swaps)                 | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 17-02-2023<br>08-05-2018 |
+| 009 | [Porcupine Fever](https://www.codingame.com/training/medium/porcupine-fever)                                   | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 17-02-2023<br>08-05-2018 |
+| 010 | [Comptage de votes](https://www.codingame.com/training/medium/vote-counting)                                   | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 17-02-2023<br>16-05-2018 |
+| 011 | [ASCII ART : Glass Stacking](https://www.codingame.com/training/medium/ascii-art-glass-stacking)               | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 17-02-2023<br>24-05-2018 |
+| 012 | [Monthly System](https://www.codingame.com/training/medium/monthly-system)                                     | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 17-02-2023<br>24-05-2018 |
+| 013 | [Gravité](https://www.codingame.com/training/medium/gravity)                                                   | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 17-02-2023<br>08-05-2018 |
+| 014 | [Le jeu de la vie](https://www.codingame.com/training/medium/game-of-life)                                     | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 18-02-2023<br>18-05-2018 |
+| 015 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1)                     | :heavy_check_mark: Completed | [JS]()           | 18-02-2023               |
+| 016 | [La Bataille](https://www.codingame.com/training/medium/winamax-battle)                                        | :heavy_check_mark: Completed | [JS]()           | 18-02-2023               |
+| 017 | [Gravity Tumbler](https://www.codingame.com/training/medium/gravity-tumbler)                                   | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 18-02-2023<br>04-09-2018 |
+
+|010|[]()|:heavy_check_mark: Completed|[JS]()|01-01-2023

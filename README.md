@@ -148,4 +148,15 @@ The more optimized our solutions are in these puzzles, the better scores we get.
 | --- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------- | -------- | --------------- |
 | 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/2048/Javascript.js) | 1387368 | 192/1139 | 03-03-2023      |
 
+## Bot Programming
+
+These puzzles allow you to create bots that compete against the bots of other players.
+There is a league system : Wood, Bronze, Silver, Gold, Legend
+
+| No. | Puzzle Name                                                                                            | Language | Ligue  | Ranking in Ligue | Global Ranking |
+| --- | ------------------------------------------------------------------------------------------------------ | -------- | ------ | ---------------- | -------------- |
+| 001 | [Mad Pod Racing](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing)                 | [JS]()   | Silver | 34205/40082      | 43611/177273   |
+| 002 | [Legends of Code & Magic](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic) | [JS]()   | Bronze | 747/1220         | 1463/2630      |
+| 003 | [Start-up!](https://www.codingame.com/multiplayer/bot-programming/start-up)                            | [JS]()   | Wood   | 45/73            | 45/73          |
+
 |010|[]()|:heavy_check_mark: Completed|[JS]()|01-01-2023

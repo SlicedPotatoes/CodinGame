@@ -125,4 +125,19 @@ You will find all my puzzle solutions on Codingame here. I have been registered 
 | 016 | [La Bataille](https://www.codingame.com/training/medium/winamax-battle)                                        | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Medium/La%20Bataille/Javascript.js)                                                                                                                                                 | 18-02-2023               |
 | 017 | [Gravity Tumbler](https://www.codingame.com/training/medium/gravity-tumbler)                                   | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Medium/Gravity%20Tumbler/Javascript.js)<br>[C#](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Medium/Gravity%20Tumbler/CSharp.cs)                                   | 18-02-2023<br>04-09-2018 |
 
+### Hard
+
+| No. | Puzzle Name                                                                                | State                        | Language         | Date Submission          |
+| --- | ------------------------------------------------------------------------------------------ | ---------------------------- | ---------------- | ------------------------ |
+| 001 | [The greatest number](https://www.codingame.com/training/hard/the-greatest-number)         | :heavy_check_mark: Completed | [JS]()<br>[C#]() | 18-02-2023<br>08-05-2018 |
+| 002 | [Disks intersection](https://www.codingame.com/training/hard/disks-intersection)           | :heavy_check_mark: Completed | [JS]()           | 15-02-2023               |
+| 003 | [Egyptian multiplication](https://www.codingame.com/training/hard/egyptian-multiplication) | :heavy_check_mark: Completed | [JS]()           | 15-02-2023               |
+| 004 | [7-segment display](https://www.codingame.com/training/hard/7-segment-display)             | :heavy_check_mark: Completed | [JS]()           | 06-02-2023               |
+
+### Very Hard
+
+| No. | Puzzle Name                                                                                            | State                 | Language | Date Submission |
+| --- | ------------------------------------------------------------------------------------------------------ | --------------------- | -------- | --------------- |
+| 001 | [CG Chat interpreter - Part 1](https://www.codingame.com/training/expert/cg-chat-interpreter---part-1) | :x: 82% Not Completed | [JS]()   | 01-02-2023      |
+
 |010|[]()|:heavy_check_mark: Completed|[JS]()|01-01-2023

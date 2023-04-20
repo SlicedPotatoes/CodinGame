@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int next(int n)
+long long next(long long n)
 {
   string s = to_string(n);
   int length = s.length();

@@ -1,3 +1,9 @@
+/*
+  Optimization 2048 V1
+  Date Submission: 03-03-2023
+  Score: 1 387 368
+  Ranking: 192/1139
+*/
 class TreeGrid {
   constructor(grid, seed, score, move) {
     this.grid = grid;

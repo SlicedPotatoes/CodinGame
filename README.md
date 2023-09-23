@@ -152,7 +152,7 @@ You will find all my puzzle solutions on Codingame here. I have been registered 
 | --- | ------------------------------------------------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
 | 001 | [CG Chat interpreter - Part 1](https://www.codingame.com/training/expert/cg-chat-interpreter---part-1) | :x: 82% Not Completed        | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Very%20Hard/CG%20Chat%20interpreter%20-%20Part%201/Javascript.js) | 01-02-2023      |
 | 002 | [La résistance](https://www.codingame.com/training/expert/the-resistance)                              | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Very%20Hard/La%20r%C3%A9sistance/javascript.js)                   | 21-09-2023      |
-| 003 | [Breach](https://www.codingame.com/training/expert/breach)                                             | :heavy_check_mark: Completed | [JS]()                                                                                                                               | 23-09-2023      |
+| 003 | [Breach](https://www.codingame.com/training/expert/breach)                                             | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Very%20Hard/Breach/javascript.js)                                 | 23-09-2023      |
 
 ## Optimization
 

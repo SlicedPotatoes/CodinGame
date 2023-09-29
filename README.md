@@ -170,12 +170,12 @@ You will find all my puzzle solutions on Codingame here. I have been registered 
 The more optimized our solutions are in these puzzles, the better scores we get.
 | No. | Puzzle Name | Language | Score | Ranking | Date Submission | Other |
 | --- | ----------- | -------- | ----- | ------- | --------------- | ----- |
-| 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Optimization/2048/Javascript.js)<br>[JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Optimization/2048/Javascript.js)<br> | 1 387 368<br>16 874 276<br> | 192/1139<br>60/1322<br> | 03-03-2023<br>20-09-2023<br> | <br>[Genetic Algorithm C#](https://github.com/SlicedPotatoes/2048_Genetic_Algorithm)<br> |
+| 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Optimization/2048/Javascript.js)<br>[JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Optimization/2048/Javascript.js)<br> | 1 387 368<br>16 874 276<br> | 192/1139<br>60/1322<br> | 03-03-2023<br>20-09-2023<br> | <br>[Genetic](https://github.com/SlicedPotatoes/2048_Genetic_Algorithm)<br> |
 | 002 | [Code vs Zombies](https://www.codingame.com/multiplayer/optimization/code-vs-zombies) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Optimization/Code%20vs%20Zombies/Javascript.js)<br> | 35 390<br> | 15550/32696<br> | 14-03-2023<br> | <br> |
 
 ### Bot Programming
 
-These puzzles allow you to create bots that compete against the bots of other players. There is a league systeme : Wood, Bronze, Silver, GOld, Legend
+These puzzles allow you to create bots that compete against the bots of other players. There is a league systeme : Wood, Bronze, Silver, Gold, Legend
 | No. | Puzzle Name | Language | Ligue | Ranking in Ligue | Global Ranking | Date Submission | Other |
 | --- | ----------- | -------- | ----- | ---------------- | -------------- | --------------- | ----- |
 | 001 | [Mad Pod Racing](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Bot%20Programming/Mad%20Pod%20Racing/Javascript.js)<br> | Silver<br> | 18333/40082<br> | 27886/177273<br> | 29-03-2023<br> | <br> |

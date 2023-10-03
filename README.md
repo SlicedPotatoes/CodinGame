@@ -162,22 +162,22 @@ You will find all my puzzle solutions on Codingame here. I have been registered 
 | No. | Puzzle Name                                                                                            | State                        | Language                                                                                                                                 | Date Submission |
 | --- | ------------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 001 | [CG Chat interpreter - Part 1](https://www.codingame.com/training/expert/cg-chat-interpreter---part-1) | :x: 82% Not Completed        | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Very%20Hard/CG%20Chat%20interpreter%20-%20Part%201/Javascript.js)<br> | 01-02-2023<br>  |
-| 002 | [La résistance](https://www.codingame.com/training/expert/the-resistance)                              | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Very%20Hard/La%20r%c3%a9sistance/Javascript.js)<br>                   | 21-09-2023<br>  |
-| 003 | [Breach](https://www.codingame.com/training/expert/breach)                                             | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Very%20Hard/Breach/Javascript.js)<br>                                 | 23-09-2023<br>  |
+| 002 | [La résistance](https://www.codingame.com/training/expert/the-resistance)                              | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Very%20Hard/La%20r%c3%a9sistance/javascript.js)<br>                   | 21-09-2023<br>  |
+| 003 | [Breach](https://www.codingame.com/training/expert/breach)                                             | :heavy_check_mark: Completed | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Very%20Hard/Breach/javascript.js)<br>                                 | 23-09-2023<br>  |
 
 ### Optimization
 
 The more optimized our solutions are in these puzzles, the better scores we get.
 | No. | Puzzle Name | Language | Score | Ranking | Date Submission | Other |
 | --- | ----------- | -------- | ----- | ------- | --------------- | ----- |
-| 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Optimization/2048/Javascript.js)<br>[JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Optimization/2048/Javascript.js)<br> | 1 387 368<br>16 874 276<br> | 192/1139<br>60/1322<br> | 03-03-2023<br>20-09-2023<br> | <br>[Genetic](https://github.com/SlicedPotatoes/2048_Genetic_Algorithm)<br> |
-| 002 | [Code vs Zombies](https://www.codingame.com/multiplayer/optimization/code-vs-zombies) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Optimization/Code%20vs%20Zombies/Javascript.js)<br> | 35 390<br> | 15550/32696<br> | 14-03-2023<br> | <br> |
+| 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/2048/Javascript.js)<br>[JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/2048/Javascript.js)<br> | 1 387 368<br>16 874 276<br> | 192/1139<br>60/1322<br> | 03-03-2023<br>20-09-2023<br> | <br>[Genetic](https)<br> |
+| 002 | [Code vs Zombies](https://www.codingame.com/multiplayer/optimization/code-vs-zombies) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/Code%20vs%20Zombies/Javascript.js)<br> | 35 390<br> | 15550/32696<br> | 14-03-2023<br> | <br> |
 
 ### Bot Programming
 
 These puzzles allow you to create bots that compete against the bots of other players. There is a league systeme : Wood, Bronze, Silver, Gold, Legend
 | No. | Puzzle Name | Language | Ligue | Ranking in Ligue | Global Ranking | Date Submission | Other |
 | --- | ----------- | -------- | ----- | ---------------- | -------------- | --------------- | ----- |
-| 001 | [Mad Pod Racing](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Bot%20Programming/Mad%20Pod%20Racing/Javascript.js)<br> | Silver<br> | 18333/40082<br> | 27886/177273<br> | 29-03-2023<br> | <br> |
-| 002 | [Legends of Code & Magic](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Bot%20Programming/Legends%20of%20Code%20&%20Magic/Javascript.js)<br> | Bronze<br> | 747/1220<br> | 1463/2630<br> | 03-11-2022<br> | <br> |
-| 003 | [Start-up!](https://www.codingame.com/multiplayer/bot-programming/start-up) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Puzzles/Bot%20Programming/Start-up!/Javascript.js)<br> | Wood<br> | 21/94<br> | 21/91<br> | 24-09-2023<br> | <br> |
+| 001 | [Mad Pod Racing](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Bot%20Programming/Mad%20Pod%20Racing/Javascript.js)<br> | Silver<br> | 18333/40082<br> | 27886/177273<br> | 29-03-2023<br> | <br> |
+| 002 | [Legends of Code & Magic](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Bot%20Programming/Legends%20of%20Code%20&%20Magic/Javascript.js)<br> | Bronze<br> | 747/1220<br> | 1463/2630<br> | 03-11-2022<br> | <br> |
+| 003 | [Start-up!](https://www.codingame.com/multiplayer/bot-programming/start-up) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Bot%20Programming/Start-up!/Javascript.js)<br> | Wood<br> | 21/94<br> | 21/94<br> | 24-09-2023<br> | <br> |

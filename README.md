@@ -183,6 +183,7 @@ The more optimized our solutions are in these puzzles, the better scores we get.
 | --- | ----------- | -------- | ----- | ------- | --------------- | ----- |
 | 001 | [2048](https://www.codingame.com/multiplayer/optimization/2048) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/2048/Javascript.js)<br>[JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/2048/Javascript.js)<br> | 1 387 368<br>16 874 276<br> | 192/1139<br>60/1322<br> | 03-03-2023<br>20-09-2023<br> | <br>[Genetic](https)<br> |
 | 002 | [Code vs Zombies](https://www.codingame.com/multiplayer/optimization/code-vs-zombies) | [JS](https://github.com/SlicedPotatoes/CodinGame/blob/main/Optimization/Code%20vs%20Zombies/Javascript.js)<br> | 35 390<br> | 15550/32696<br> | 14-03-2023<br> | <br> |
+| 003| [SameGame](https://www.codingame.com/multiplayer/optimization/samegame)|[C++]()<br>|21318<br>|310/690<br>|10-11-2023<br>||
 
 ### Bot Programming
 
